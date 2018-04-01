@@ -1,2 +1,2 @@
 # hello_world
-Greatest lines of code in the history of code
+Hello world my name is Leroy Hutchinson and this is my repository!
